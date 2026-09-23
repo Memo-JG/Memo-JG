@@ -6,7 +6,7 @@
 ### 🌍 Sobre Mí
 Desarrollador apasionado por el rendimiento técnico y la estética visual. Me dedico a crear software personalizando desde aplicaciones móviles con diseños atractivos y fluidos, hasta infraestructuras de servidores eficientes. Busco el equilibrio exacto entre un rendimiento brutal y una estética limpia.
 
-- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en el TecNM Campus Iguala.
+- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en el TecNM
 - 💻 Mi enfoque principal es el ecosistema **Movil**, **Docker** y **Servidores Linux**.
 - 🛠️ En mi tiempo libre, creo aplicaciones de uso presonal, optimizo entornos Java mediante scripts y disfruto de los simuladores de autos (especialmente haciendo drift) y escuchando musica.
 
